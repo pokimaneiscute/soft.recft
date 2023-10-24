@@ -39,12 +39,10 @@ nav ul li a:hover {
 
 section {
     padding: 20px;
-    font-size: 20px;
 }
 
 section h2 {
     color: #333;
-    font-size: 20px;
 }
 
 footer {
@@ -53,4 +51,8 @@ footer {
     text-align: center;
     font-size: 12 px;
     color: #777;
+}
+
+.about-section {
+    font-size: 20px;
 }
