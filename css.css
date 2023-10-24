@@ -54,6 +54,6 @@ footer {
     color: #777;
 }
 
-.about-section {
-    font-size: 20px;
+.container {
+    text-align: justify;
 }
