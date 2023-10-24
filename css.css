@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #f9f9f9;
+    background-color: #45928c;
     padding: 20px;
     display: flex;
     align-items: center;
@@ -39,14 +39,16 @@ nav ul li a:hover {
 
 section {
     padding: 20px;
+    font-size: 20px;
 }
 
 section h2 {
     color: #333;
+    font-size: 20px;
 }
 
 footer {
-    background-color: #f9f9f9;
+    background-color: #45928c;
     padding: 10px;
     text-align: center;
     font-size: 12 px;
