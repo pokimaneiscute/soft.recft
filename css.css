@@ -58,3 +58,8 @@ footer {
 .container {
     text-align: justify;
 }
+
+.container {
+    background-image: url();
+    opacity: 0.7;
+        }
